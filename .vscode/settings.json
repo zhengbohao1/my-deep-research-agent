@@ -1,0 +1,11 @@
+{
+  "python.envFile": "${workspaceFolder}/.env",
+  "python.terminal.executeInFileDir": true,
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "E:\\PyCharm_Code\\my-deepresearch-agent"
+  },
+  "python.analysis.extraPaths": [
+    "./backend"
+  ],
+  "python.defaultInterpreterPath": "D:/conda/envs/deepresearch/python.exe"
+}
